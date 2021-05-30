@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/nuestroestu",
+        "image": "social/twitter.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://es-es.facebook.com/Nuestro-Estu-161460697224814/",
+        "image": "social/facebook.svg"
+    }
+]

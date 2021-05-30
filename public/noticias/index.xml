@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noticias on Nuestro Estu</title>
+    <link>/noticias/</link>
+    <description>Recent content in Noticias on Nuestro Estu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Junta Extraordinaria de Accionistas</title>
+      <link>/noticias/junta_de_accionistas/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/noticias/junta_de_accionistas/</guid>
+      <description>Convocatoria de Junta Extraordinaria de Accionistas del Club Estudiantes S.A.D.
+El Consejo de Administración del Club Estudiantes SAD ha anunciado la convocatoria de una junta general extraordinaria de accionistas. La junta tendrá lugar el 30 de junio de 2021 a las 19:30 en el Polideportivo Antonio Magariños.
+Detalles en la web oficial del club: https://www.movistarestudiantes.com/institucional/convocatoria-junta-extraordinaria-accionistas-club-estudiantes-s-a-d/</description>
+    </item>
+    
+  </channel>
+</rss>

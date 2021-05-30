@@ -1,0 +1,36 @@
+baseURL = "/"
+languageCode = "es-es"
+title = "Nuestro Estu"
+theme = "hugo-hero-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = 'Nuestro Estu. Todos juntos, con las ideas claras y el ánimo de la crítica constructiva pero contundente. Así es nuestro espíritu y así es cómo pensamos colaborar con el Estu. Y tú también puedes'
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@nuestroestu"
+
+[[menu.main]]
+    name = "Noticias"
+    url = "/noticias/"
+    weight = 1
+
+[[menu.main]]
+    name = "Transparencia"
+    url = "/transparencia/"
+    weight = 2
+
+[[menu.main]]
+    name = "Nuestro Estu"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contacto"
+    url = "/contacto/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
