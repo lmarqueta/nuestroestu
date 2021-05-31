@@ -10,4 +10,4 @@ align: left
 Estamos en:
 
 - Facebook: [Facebook](https://es-es.facebook.com/Nuestro-Estu-161460697224814/)
-- Twitter: [@NuestroEstu](]https://twitter.com/nuestroestu)
+- Twitter: [@NuestroEstu](https://twitter.com/nuestroestu)
