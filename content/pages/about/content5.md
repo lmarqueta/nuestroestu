@@ -3,6 +3,8 @@ title: '¿Cómo se trabajaría?'
 weight: 5
 date: 2021-05-29
 background: 'https://images.unsplash.com/photo-1525973132219-a04334a76080?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=977&q=80'
+background: 'https://images.unsplash.com/photo-1618185663342-c66c72b454df?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+
 align: left
 ---
 

@@ -2,7 +2,6 @@
 title: '¿Qué cosas se pueden hacer?'
 weight: 4
 date: 2021-05-29
-background: 'https://images.unsplash.com/photo-1536860919493-6acd5f675de5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1084&q=80'
 align: right
 ---
 

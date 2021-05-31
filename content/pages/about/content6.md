@@ -2,7 +2,7 @@
 title: 'Entonces, a ver, resúmeme de nuevo cuál es la finalidad de todo esto'
 weight: 6
 date: 2021-05-29
-background: 'https://images.unsplash.com/photo-1618185663342-c66c72b454df?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+# background: 'https://images.unsplash.com/photo-1618185663342-c66c72b454df?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
 align: right
 ---
 Pues unirnos para expresar lo que nos inquieta o no nos gusta de NUESTRO ESTU en la actualidad y qué haríamos o creemos que puede hacerse para cambiar eso. Ya sea porque nos parezca que no se estén siguiendo los valores, ideales y filosofía que nos llevaron a su lado, que el equipo no esté haciendo las cosas bien o cualquier otra molestia que pudiéramos tener, que mediante la unión entre todos nosotros y nosotras podamos hacer llegar esos pareceres hasta los responsables máximos del club y así instarles a que mejoren la situación o por lo menos lo intenten. Para ello nuestra manera de actuar deberá ser organizada, pacífica, ingeniosa y hasta cierto punto lúdica, pero todo ello sin impedir que sea directa y contundente cuando fuere necesario. No debemos olvidar en ningún momento por supuesto el respeto que todo miembro del Estudiantes merece, pero tampoco debemos olvidar que nosotros como aficionados y aficionadas también lo merecemos como la mayor fuerza de este club que somos, aunque no manejemos millones, no midamos dos metros o no tengamos copas y ligas en nuestro palmarés.
