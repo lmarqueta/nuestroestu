@@ -5261,9 +5261,6 @@ button.bg-dark:focus {
 .text-uppercase {
   text-transform: uppercase !important; }
 
-.text-capitalize {
-  text-transform: capitalize !important; }
-
 .font-weight-light {
   font-weight: 300 !important; }
 
@@ -5425,7 +5422,7 @@ ul,
 ol {
   margin: 0;
   padding: 0;
-  list-style: none; }
+  list-style: square; }
 
 .page {
   display: flex;
