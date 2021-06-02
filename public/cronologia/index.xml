@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nuestro Estu</title>
-    <link>/</link>
-    <description>Recent content on Nuestro Estu</description>
+    <title>Cronología on Nuestro Estu</title>
+    <link>/cronologia/</link>
+    <description>Recent content in Cronología on Nuestro Estu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/cronologia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2005-06</title>
       <link>/cronologia/2005-06/</link>
@@ -16,17 +16,6 @@
       <description>Tras unos años de éxitos, se producen unos cambios relevantes en el equipo ACB.
 Se marcha Pepu Hernández y José Asensio accede a la dirección deportiva. Juan Antonio Orenga es el elegido para reemplazar al carismático Pepu. Fernando Bermúdez es el presidente de la SAD.
 Se ficha a McDonald, Antonio Bueno y Javier Mendiburu. En mayo se incorpora Ilian Evtimov que tiene el dudoso honor de cerrar su etapa en el club con un total de cero puntos.</description>
-    </item>
-    
-    <item>
-      <title>Junta Extraordinaria de Accionistas</title>
-      <link>/noticias/junta_de_accionistas/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/noticias/junta_de_accionistas/</guid>
-      <description>Convocatoria de Junta Extraordinaria de Accionistas del Club Estudiantes S.A.D.
-El Consejo de Administración del Club Estudiantes SAD ha anunciado la convocatoria de una junta general extraordinaria de accionistas. La junta tendrá lugar el 30 de junio de 2021 a las 19:30 en el Polideportivo Antonio Magariños.
-Detalles en la web oficial del club: https://www.movistarestudiantes.com/institucional/convocatoria-junta-extraordinaria-accionistas-club-estudiantes-s-a-d/</description>
     </item>
     
     <item>
@@ -69,34 +58,6 @@ Y es que en julio la Fundación compró las acciones de Tejedor que abandonó su
       <description>La temporada 2009-10 trajo los mejores resultados deportivos desde 2005 hasta hoy. Continuaban Casimiro como primer entranador y Nacho Azofra como director deportivo.
 El primer fichaje fue el del veterano base Albert Oliver, no exento de cierta polémica; existió la sospecha de que el contrato de cinco años para el jugador de 31 años era un mecanismo más o menos fraudulento para evitar el derecho de tanteo del Valencia.
 Más adelante llegaría el fichaje del tirador Blake Ahearn y, ya en septiembre, se firmó un contrato temporal a Germán Gabriel para sustituir a Iker Iturbe; el vitoriano, aquejado de una extraña enfermedad, no jugó ni un minuto en la temporada.</description>
-    </item>
-    
-    <item>
-      <title>Contacto</title>
-      <link>/contacto/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/contacto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>/history/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>/history/</guid>
-      <description>About Heading  Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
-    </description>
     </item>
     
   </channel>

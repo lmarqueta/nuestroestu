@@ -17,8 +17,8 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Transparencia"
-    url = "/transparencia/"
+    name = "Cronología"
+    url = "/cronologia/"
     weight = 2
 
 [[menu.main]]
