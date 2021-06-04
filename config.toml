@@ -4,7 +4,7 @@ title = "Nuestro Estu"
 theme = "hugo-hero-theme"
 
 [params]
-  google_analytics_id=""
+  google_analytics_id="UA-198718870-1"
 
   [params.homepage_meta_tags]
     meta_description = 'Nuestro Estu. Todos juntos, con las ideas claras y el ánimo de la crítica constructiva pero contundente. Así es nuestro espíritu y así es cómo pensamos colaborar con el Estu. Y tú también puedes'
