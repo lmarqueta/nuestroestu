@@ -75,6 +75,15 @@ Más adelante llegaría el fichaje del tirador Blake Ahearn y, ya en septiembre,
     </item>
     
     <item>
+      <title>Aviso legal</title>
+      <link>/legal/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/legal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contacto</title>
       <link>/contacto/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
@@ -90,16 +99,6 @@ Más adelante llegaría el fichaje del tirador Blake Ahearn y, ya en septiembre,
       
       <guid>/about/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>/history/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>/history/</guid>
-      <description>About Heading  Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
-    </description>
     </item>
     
   </channel>
