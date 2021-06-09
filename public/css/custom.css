@@ -1,0 +1,13 @@
+div.img{
+  width: 600px;
+  padding-top: 2em;
+  padding-bottom: 3em;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-size:12px;
+  padding: 2px;
+  text-align: center;
+}
