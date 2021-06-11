@@ -7,8 +7,8 @@ background: 'https://images.unsplash.com/photo-1575028051109-614d811d9592?ixid=M
 align: left
 ---
 
-Estamos en:
+¿Quieres contactar con nosotros? Estamos en:
 
-- Facebook: [Facebook](https://es-es.facebook.com/Nuestro-Estu-161460697224814/)
 - Twitter: [@NuestroEstu](https://twitter.com/nuestroestu)
 - Instagram: [@nuestroestu](https://instagram.com/nuestroestu)
+- [Facebook](https://es-es.facebook.com/Nuestro-Estu-161460697224814/)

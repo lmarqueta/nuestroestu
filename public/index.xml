@@ -8,16 +8,14 @@
     <language>es-es</language>
     <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Minutos de los canteranos</title>
-      <link>/datos/estudio_minutos_canteranos/</link>
+      <title>Victorias y derrotas</title>
+      <link>/datos/victorias_y_derrotas/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/datos/estudio_minutos_canteranos/</guid>
-      <description>El documento adjunto analiza la presencia de cantera en el Estudiantes desde la temporada 2000-2001.
-
-En él se puede observar la evolución en minutos del conjunto de canteranos, de los sub-23 y una comparativa de los últimos años con otro club &amp;ldquo;de cantera&amp;rdquo;: el Joventut de Badalona.
-Descargar el informe completo aquí:
-Descargar</description>
+      <guid>/datos/victorias_y_derrotas/</guid>
+      <description>En el documento adjunto se analiza comparativamente el ratio de victorias y derrotas con respecto al resto de equipos que han participado en la liga ACB desde 2010 hasta hoy.
+Los resultados son muy esclarecedores:
+ De los 10 equipos que han participado en todas las ediciones desde 2010, el Estudiantes es el que tiene el peor porcentaje de victorias De los 24 equipos que han participado en alguna de dichas temporadas, todos los que tienen peores resultados están o han estado en LEB (Gipuzkoa Basket, Manresa, Breogán) o han desaparecido (Valladolid, Granada, Menorca) Somos el equipo con más partidos perdidos en este período Si consideramos exclusivamente las tres últimas temporadas, solo hay dos equipos con peores resultados: Gipuzkoa Basket y Breogán En particular, las dos últimas temporadas son las peores de la historia del Estudiantes en cuanto a porcentaje de victorias (22% y 25%)  Descargar el informe completo:</description>
     </item>
     
     <item>
@@ -28,7 +26,8 @@ Descargar</description>
       <guid>/cronologia/2005-06/</guid>
       <description>Tras unos años de éxitos, se producen unos cambios relevantes en el equipo ACB.
 Se marcha Pepu Hernández y José Asensio accede a la dirección deportiva. Juan Antonio Orenga es el elegido para reemplazar al carismático Pepu. Fernando Bermúdez es el presidente de la SAD.
-Se ficha a McDonald, Antonio Bueno y Javier Mendiburu. En mayo se incorpora Ilian Evtimov que tiene el dudoso honor de cerrar su etapa en el club con un total de cero puntos.</description>
+Se ficha a McDonald, Antonio Bueno y Javier Mendiburu. También al base Sergio Sánchez, que es cedido al Fuenlabrada.
+En mayo se incorpora Ilian Evtimov que tiene el dudoso honor de cerrar su etapa en el club con un total de cero puntos.</description>
     </item>
     
     <item>
@@ -53,7 +52,7 @@ La afición tiene que ser escuchada, ¿nos apoyas?</description>
       <guid>/cronologia/2006-07/</guid>
       <description>Sin Copa ni Playoff por primera vez desde la temporada 1988-89
 Fernando Bermúdez sigue en la presidencia con José Asensio como director deportivo. Continúa Pedro Martínez aunque, como veremos, no por mucho tiempo.
-Se ficha a Aspe, Garnett, José López Valera, Nikolic, Sergio Sánchez y el georgiano Viktor Sanikidze. Entre Miso y Mendiburu se prefiere a este último; Miso parte hacia Fuenlabrada que le firma dos años pero le traspasa al año siguiente a Sevilla.</description>
+Se incorpora a Aspe, Garnett, José López Valera, Nikolic, Sergio Sánchez (que estaba cedido en Fuenlabrada) y el georgiano Viktor Sanikidze. Entre Miso y Mendiburu se prefiere a este último; Miso parte hacia Fuenlabrada que le firma dos años pero le traspasa al año siguiente a Sevilla.</description>
     </item>
     
     <item>
@@ -64,6 +63,19 @@ Se ficha a Aspe, Garnett, José López Valera, Nikolic, Sergio Sánchez y el geo
       <guid>/cronologia/2007-08/</guid>
       <description>¡Que no bajamos!
 Este año es especialmente convulso y no solo por los resultados deportivos que estuvieron muy cerca de provocar el primer descenso. La temporada se inició con Mariano de Pablos al frente de la plantilla pero, tras un preocupante inicio 1-7, presenta su dimisión. Javi González y Nacho Azofra llegaron a dirigir de forma interina el partido frente al Manresa (que acabó con derrota, 1-8) hasta la incorporación de Velimir Perasovic, recién recuperado de una angina de pecho cuando era entrenador del TAU Baskonia.</description>
+    </item>
+    
+    <item>
+      <title>Minutos de los canteranos</title>
+      <link>/datos/estudio_minutos_canteranos/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/datos/estudio_minutos_canteranos/</guid>
+      <description>El documento adjunto analiza la presencia de cantera en el Estudiantes desde la temporada 2000-2001.
+En él se puede observar la evolución en minutos del conjunto de canteranos, de los sub-23 y una comparativa de los últimos años con otro club &amp;ldquo;de cantera&amp;rdquo;: el Joventut de Badalona.
+
+Descargar el informe completo aquí:
+Descargar</description>
     </item>
     
     <item>
