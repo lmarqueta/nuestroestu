@@ -42,5 +42,17 @@ Descargar el informe completo aquí:
 Descargar</description>
     </item>
     
+    <item>
+      <title>Resultados 2005-2021 (II)</title>
+      <link>/datos/resultados_ii/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/datos/resultados_ii/</guid>
+      <description>En un documento anterior vimos la tendencia descendente del ratio de victorias desde el inicio de la era ACB.
+Agrupando las temporadas en bloques se ve aún más claro.
+Hemos dividido la era ACB en tres intervalos:
+  El primero, desde el inicio (1983) hasta 2005: en este período hay una media del 61% de victorias en liga regular. El Estudiantes es asiduo a la Copa y los playoff.</description>
+    </item>
+    
   </channel>
 </rss>
