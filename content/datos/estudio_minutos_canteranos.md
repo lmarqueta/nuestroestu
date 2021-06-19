@@ -14,7 +14,7 @@ El documento adjunto analiza la presencia de cantera en el Estudiantes desde la 
 
 En él se puede observar la evolución en minutos del conjunto de canteranos, de los sub-23 y una comparativa de los últimos años con otro club "de cantera": el Joventut de Badalona.
 
-[![Comparativa Estu-Joventut](/img/comparativa_esty_penya.png)](/docs/estudio_minutos_canteranos.pdf)
+[![Comparativa Estu-Joventut](/img/comparativa_estu_penya.png)](/docs/estudio_minutos_canteranos.pdf)
 
 Descargar el informe completo aquí:
 

@@ -17,7 +17,7 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Datos"
+    name = "Dossier"
     url = "/datos/"
     weight = 2
 

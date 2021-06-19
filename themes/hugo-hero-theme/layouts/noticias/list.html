@@ -17,10 +17,9 @@
 </div>
 {{ end }}
 
-
 <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
   <div class="row">
-    {{ range .Pages.ByWeight }}
+    {{ range .Pages.ByDate.Reverse }}
     <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
     {{ end }}
   </div>

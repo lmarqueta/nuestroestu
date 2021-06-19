@@ -7,7 +7,6 @@ draft: false
 heroHeading: 'Junta de Accionistas'
 heroSubHeading: 'Convocatoria de Junta Extraordinaria de Accionistas del Club Estudiantes S.A.D.'
 heroBackground: 'services/estu.jpg'
-weight: 1
 ---
 
 Convocatoria de Junta Extraordinaria de Accionistas del Club Estudiantes S.A.D.

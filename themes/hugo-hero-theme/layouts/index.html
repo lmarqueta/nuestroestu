@@ -29,7 +29,14 @@
       <div class="col-12 col-md-8 text-center">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
         <p>{{ .Content }}</p>
+        <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
+          <div class="row">
+          {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "noticias" ) }}
+          <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+          {{ end }}
+          </div>
         <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+      </div>
       </div>
     </div>
   </div>
@@ -37,16 +44,23 @@
 {{ end }}
 
 {{ range first 1 (after 1 $reusablePages) }}
-<div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+<div id="home" class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('/img/wizink_court_tr_blue.png');"> 
   <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
     <div class="row justify-content-center">
-      <div class="col-12 col-md-8 text-center text-white">
-        <h2>{{ .Title }}</h2>
+      <div class="col-12 col-md-8 text-center">
+        <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
         <p>{{ .Content }}</p>
-        <a class="button button-white" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+        <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
+          <div class="row">
+          {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "datos" ) }}
+          <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+          {{ end }}
+        </div>
+        <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
       </div>
     </div>
   </div>
+</div>
 </div>
 {{ end }}
 
@@ -57,8 +71,14 @@
       <div class="col-12 col-md-8 text-center">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
         <p>{{ .Content }}</p>
-        <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
-      </div>
+        <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
+          <div class="row">
+          {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "cronologia" ) }}
+          <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+          {{ end }}
+        </div>
+      <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+        </div>
     </div>
   </div>
 </div>
