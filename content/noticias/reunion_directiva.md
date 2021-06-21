@@ -1,15 +1,15 @@
 ---
-title: 'Reunión con Fernando Galindo'
+title: 'Nuestro Estu se reúne con Fernando Galindo'
 date: 2021-06-21
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Reunión con la directiva'
+heroHeading: 'Nuestro Estu se reúne con Fernando Galindo'
 heroSubHeading: 'Reunión con Fernando Galindo y Miguel Ortega, presidente y director de operaciones del Club Estudiantes S.A.D.'
 heroBackground: 'services/estu.jpg'
 ---
 
-El día 16 de junio *Nuestro Estu* fue recibida por Fernando Galindo, presidente de Estudiantes SAD y Miguel Ortega, Director de Operaciones y Desarrollo de Negocio.
+El día 16 de junio ***Nuestro Estu*** fue recibida por Fernando Galindo, presidente de Estudiantes SAD y Miguel Ortega, Director de Operaciones y Desarrollo de Negocio.
 
 Durante la reunión tuvimos ocasión de presentarles la plataforma Nuestro Estu como un canal para servir de puente entre la afición y la directiva transmitiendo desde la hinchada las ideas, críticas y sugerencias que puedan ayudar a que el Estudiantes mejore el rumbo de los últimos años y vuelva a ser una fuente de ilusión y orgullo para todos.
 
@@ -69,7 +69,7 @@ En lo referente al director general insistieron en que es imprescindible y que c
 
 **Después de la rueda de prensa, ¿a alguien se le ha ocurrido que Bufalá debería dar un paso al lado y dejar sus funciones?**
 
-Se planteó que el modelo de bicefalia no era el apropiado y, sin personalizar en Bufalá, sí se propuso que la SAD fuera gestionada de manera independiente sin que los responsables del club tuvieran incidencia en ella. Pero se insistió en que todo es una unidad y se alegó que al no haber equipo profesional , se debía buscar una fórmula alternativa pero siempre con la intención clara por parte de la directiva que Estudiantes es una sóla unidad que engloba todo.
+Se planteó que el modelo de bicefalia no era el apropiado y, sin personalizar en Bufalá, sí se propuso que la SAD fuera gestionada de manera independiente sin que los responsables del club tuvieran incidencia en ella. Pero se insistió en que todo es una unidad y se alegó que al no haber equipo profesional , se debía buscar una fórmula alternativa pero siempre con la intención clara por parte de la directiva que Estudiantes es una sola unidad que engloba todo.
 
 **¿Cuáles son los motivos del fracaso de los últimos 10 años y cómo piensan solucionarlo?**
 
