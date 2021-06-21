@@ -14,4 +14,4 @@ heroBackground: 'services/estu.jpg'
 Desde Nuestro Estu estamos interesados en conocer su opinión acerca del estado actual del club Estudiantes. No será de mucha ayuda conocer parecer de cara a la próxima Junta General de Accionistas. No le llevará más de 4 minutos completar la encuesta:
 
 
-{{< survey src="1FAIpQLSdsSQaVsEkUFBAuhsDd7TpCpMPtx6kA_iZXi_Hk7SD-1lQ00Q" width="640" height="4871" >}}
+{{< survey src="1FAIpQLSdsSQaVsEkUFBAuhsDd7TpCpMPtx6kA_iZXi_Hk7SD-1lQ00Q" width="400" height="4871" >}}
