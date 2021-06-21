@@ -1,5 +1,5 @@
 ---
-title: 'encuesta nuestro Estu'
+title: 'Encuesta de Valoración'
 date: 2021-06-21
 icon: 'services/service-icon-4.png'
 featured: true

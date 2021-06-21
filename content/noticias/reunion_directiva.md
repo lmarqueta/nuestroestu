@@ -1,6 +1,6 @@
 ---
 title: 'Nuestro Estu se reúne con Fernando Galindo'
-date: 2021-06-21
+date: 2021-06-20
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
