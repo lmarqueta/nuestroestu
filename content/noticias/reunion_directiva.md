@@ -3,7 +3,7 @@ title: 'Reunión con Fernando Galindo'
 date: 2021-06-21
 icon: 'services/service-icon-4.png'
 featured: true
-draft: true
+draft: false
 heroHeading: 'Reunión con la directiva'
 heroSubHeading: 'Reunión con Fernando Galindo y Miguel Ortega, presidente y director de operaciones del Club Estudiantes S.A.D.'
 heroBackground: 'services/estu.jpg'
