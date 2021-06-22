@@ -11,3 +11,9 @@ figcaption {
   padding: 2px;
   text-align: center;
 }
+
+div.progressbar {
+  width: 600px;
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
