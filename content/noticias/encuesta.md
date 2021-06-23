@@ -15,6 +15,6 @@ Nos interesa su opinión; hemos preparado una rapidísima encuesta. Le llevará 
 
 ¡Ayúdenos a llegar a 1000 repuestas!
 
-{{< progressbar src="/img/progbar-45.png" alt="45%" >}}
+{{< progressbar src="/img/progbar-50.png" alt="50%" >}}
 
 {{< survey src="1FAIpQLSdsSQaVsEkUFBAuhsDd7TpCpMPtx6kA_iZXi_Hk7SD-1lQ00Q" width="400" height="4871" >}}
