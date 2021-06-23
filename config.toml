@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://nuestroestu.es/"
 languageCode = "es-es"
 title = "Nuestro Estu"
 theme = "hugo-hero-theme"

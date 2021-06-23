@@ -17,3 +17,16 @@ div.progressbar {
   padding-top: 1em;
   padding-bottom: 2em;
 }
+
+div.highlighed {
+  padding: 2em;
+}
+
+div.breaking {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5em;
+  background: #889cf3;
+  color: #000;
+}

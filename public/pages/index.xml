@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Nuestro Estu</title>
-    <link>/pages/</link>
+    <link>https://nuestroestu.es/pages/</link>
     <description>Recent content in Pages on Nuestro Estu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nuestroestu.es/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aviso legal</title>
-      <link>/legal/</link>
+      <link>https://nuestroestu.es/legal/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/legal/</guid>
+      <guid>https://nuestroestu.es/legal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>/contacto/</link>
+      <link>https://nuestroestu.es/contacto/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/contacto/</guid>
+      <guid>https://nuestroestu.es/contacto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://nuestroestu.es/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://nuestroestu.es/about/</guid>
       <description></description>
     </item>
     
