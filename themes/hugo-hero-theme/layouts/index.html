@@ -31,7 +31,7 @@
         <p>{{ .Content }}</p>
         <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
           <div class="row">
-          {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "noticias" ) }}
+          {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "noticias" ) }}
           <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
           {{ end }}
           </div>
@@ -52,7 +52,7 @@
         <p>{{ .Content }}</p>
         <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
           <div class="row">
-          {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "datos" ) }}
+          {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "datos" ) }}
           <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
           {{ end }}
         </div>
@@ -73,7 +73,7 @@
         <p>{{ .Content }}</p>
         <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
           <div class="row">
-          {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Section" "cronologia" ) }}
+          {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "cronologia" ) }}
           <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
           {{ end }}
         </div>
