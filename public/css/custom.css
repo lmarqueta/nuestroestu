@@ -38,3 +38,9 @@ div.breaking {
   background: #F1C40F;
   color: #000;
 }
+
+div.date {
+  font-size: 9pt;
+  color: gray;
+  padding-bottom: 1em;
+}

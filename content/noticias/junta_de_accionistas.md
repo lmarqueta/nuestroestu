@@ -1,6 +1,7 @@
 ---
 title: 'Junta Extraordinaria de Accionistas'
 date: 2021-05-29
+lastmod: 2021-06-01
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
