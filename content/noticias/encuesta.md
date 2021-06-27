@@ -1,7 +1,7 @@
 ---
 title: 'Encuesta de Valoración'
 date: 2021-06-21
-lastmod: 2021-06-23
+lastmod: 2021-06-27
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
@@ -16,6 +16,6 @@ Nos interesa su opinión; hemos preparado una rapidísima encuesta. Le llevará 
 
 ¡Ayúdenos a llegar a 1000 repuestas!
 
-{{< progressbar src="/img/progbar-75.png" alt="75%" >}}
+{{< progressbar src="/img/progbar-80.png" alt="80%" >}}
 
 {{< survey src="1FAIpQLSdsSQaVsEkUFBAuhsDd7TpCpMPtx6kA_iZXi_Hk7SD-1lQ00Q" width="400" height="4871" >}}
