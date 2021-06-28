@@ -2,6 +2,7 @@ baseURL = "https://nuestroestu.es/"
 languageCode = "es-es"
 title = "Nuestro Estu"
 theme = "hugo-hero-theme"
+enableEmoji = true
 
 [params]
   google_analytics_id="UA-198718870-1"
