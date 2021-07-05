@@ -8,6 +8,7 @@ heroHeading: 'Minutos de los canteranos'
 heroSubHeading: 'Estudio sobre minutos y uso de los canteranos de Estudiantes desde el 2000'
 heroBackground: 'services/estu.jpg'
 weight: 4
+aliases: ['/informes/estudio_minutos_canteranos/']
 ---
 
 El documento adjunto analiza la presencia de cantera en el Estudiantes desde la temporada 2000-2001.

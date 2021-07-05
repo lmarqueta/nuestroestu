@@ -18,7 +18,7 @@ enableEmoji = true
     weight = 1
 
 [[menu.main]]
-    name = "Dossier"
+    name = "Informes"
     url = "/datos/"
     weight = 2
 
