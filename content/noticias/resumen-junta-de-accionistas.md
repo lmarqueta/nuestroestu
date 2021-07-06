@@ -127,7 +127,7 @@ No contestada.
 
 En este punto hay respuestas confusas e incluso contradictorias. Por un lado dice Bufalá que el club sirve como "guardián de las esencias" de la entidad y se ha limitado el acceso para evitar "tiburones". Por otra parte, M. Ortega afirma que el carnet de socio está disponible en la sección de entradas. Eugenio Gómez lo niega y Ortega aclara que quizá no esté ahora mismo disponible porque no hay entradas a la venta. Aquí se produce un intercambio dialéctico entre E. Gómez y M.A. Bufalá que continuó una vez finalizada la junta.
 
-**¿Cando van a empezar a creer en la filosofía de este club y confiar en la cantera?**
+**¿Cuándo van a empezar a creer en la filosofía de este club y confiar en la cantera?**
 
 Sí se confia en el talento de la cantera.
 
@@ -167,6 +167,6 @@ El EBA no va a ascender a LEB plata porque es muy caro. Pero se buscará una alt
 
 Si bien el objetivo principal de la junta extraordinaria era la modificación del artículo 2 de los estatutos sociales, el asunto no se llegó ni siquiera a debatir y se aprobó por unanimidad. Estaba claro que era necesario para adecuar los estatutos a la condición no profesional de la liga LEB.
 
-Es pues de agradecer que se dedicase el mayor tiempo a debatir los temas que más preocupan a accionistas y abonados en general, especialmente tras una situación tan crítica como el descenso. No es de extrañar que se produjeran momentos de tensión como la mencionada respuesta del presidente al primer accionista en intervenir y la increpación de un consejero a la persona que actuó portavoz de *Nuestro Estu*.
+Es pues de agradecer que se dedicase el mayor tiempo a debatir los temas que más preocupan a accionistas y abonados en general, especialmente tras una situación tan crítica como el descenso. No es de extrañar que se produjeran momentos de tensión como la mencionada respuesta del presidente al primer accionista en intervenir y la increpación de un consejero a la persona que actuó como portavoz de *Nuestro Estu*.
 
 No obstante, no podemos estar satisfechos con el formato elegido y mucho menos con la cantidad de preguntas que quedaron sin responder. Desde *Nuestro Estu* seguiremos trabajando para transmitir vuestras inquietudes, preguntas e ideas a la directiva y para exigir de esta respuestas a las mismas.
