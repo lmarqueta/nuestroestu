@@ -83,8 +83,26 @@ A pesar de sus conocidas carencias fue el jugador elegido como cuatro titular pa
 
 **Aleksandar Cvetkovic**
 
-Jugó las temporadas 2017-18 y 2020-21.
+Jugó las temporadas 2017-18 y 2020-21. Así pues, otro regreso culminado en descenso.
 
 **Alessandro Gentile**
 
 Jugador muy peculiar, pasó dos temporadas distintas por el Estu, ambas incompletas. En 2018-19, con Berrocal, fue fundamental para la salvación. La 2020-21 llegó con la temporada comenzada; las lesiones, el COVID y sus secuelas impidieron un mejor rendimiento y la temporada acabó con el descenso a LEB.
+
+### En resumen...
+
+Hemos excluido la anécdota de Rafa Vidaurreta (que solo jugó unos minutos) y a Rodrigo de la Fuente (que se marchó antes de llegar a la ACB y llegó para el descenso de 2012) y hemos comparado los resultados de su última temporada y la de su retorno:
+
+- 14 jugadores han regresado al Estu desde la temporada 2006-07.
+- De esos 14, solo en 3 casos mejoró la clasificación final el año de su retorno: Sergio Sánchez, Nik Caner-Medley y Uros Slokar.
+- La mitad de las veces terminaron en descenso.
+
+{{< image src="/img/el-retorno-i.png" alt="Los jugadores que volvieron" >}}
+
+**Las estadisticas**
+
+Si bien no siempre es sencillo comparar estadísticas, estos son los números de los jugadores en su última temporada antes de marcharse y en la primera tras su vuelta. Salvo los casos de Miso y Germán Gabriel, en el mejor de los casos los números son similares; no obstante, parece que la mayoría empeoran, en algunos casos muy claramente.
+
+En la tabla aparecen los promedios de minutos, puntos, rebotes y asistencias para las temporadas comparadas:
+
+{{< image src="/img/el-retorno-ii.png" alt="Estadísticas de los retornos" >}}
