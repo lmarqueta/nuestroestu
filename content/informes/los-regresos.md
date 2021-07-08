@@ -17,7 +17,7 @@ Esto no es nuevo; al contrario, parece una práctica común en los últimos año
 
 **Gonzalo Martínez**
 
-Jugador de la casa, debbutó en la temporada 1991-92 y permneció hasta 2001-02 en que se marchó a Canarias. Tras cuatro años allí retornó en la temporada 2006-07 para jugar dos años hasta su salida a Murcia, donde decidió su retirada tras unos pocos partidos.
+Jugador de la casa, debutó en la temporada 1991-92 y permaneció hasta 2001-02 en que se marchó a Canarias. Tras cuatro años allí retornó en la temporada 2006-07 para jugar dos años hasta su salida a Murcia, donde decidió su retirada tras unos pocos partidos.
 
 **Sergio Sánchez**
 
@@ -47,13 +47,13 @@ Lofton jugó dos temporadas incompletas en el Estudiantes. En la 2009-10 vino pa
 
 Jugador propenso a las lesiones, fue tanteado en la temporada 2011-12 pero fue descartado. En un caso insólito, [no superó el reconocimiento médico](https://www.solobasket.com/liga-endesa/una-hernia-discal-impide-lofton-fichar-por-asefa-estudiantes) al principio de temporada. Acabó fichando en enero, poco antes de Dean, Kirksay y... Bullock. Fue, pues, parte de la plantilla del primer descenso.
 
+**Rafa Vidaurreta**
+
+Un caso anecdótico. Tras haber jugado entre las temporadas 2001-02 y 2005-06, volvió para un solo partido en la 2009-10, completando la plantilla en un [partido aplazado por un brote de gripe-A](https://www.acb.com/partido/cronica/id/13521).
+
 **Carlos Jiménez**
 
 Poco que decir de este grandísimo jugador. Debutó en la temporada 1994-95 y jugó 12 temporadas en el Estu. Tras su marcha al Unicaja, donde permaneció 5 años, volvió la aciaga temporada 2011-12 donde formó parte de la plantilla del primer descenso.
-
-**Tariq Kirksay**
-
-Tras su paso con un contrato temporal para la temporada del primer descenso, fue fichado de nuevo para el proyecto del año siguiente.
 
 **Andrés Miso**
 
