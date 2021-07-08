@@ -8,6 +8,7 @@ heroHeading: 'Resultados 2005-2021 (II)'
 heroSubHeading: 'Datos clave: resultados deportivos de las últimas temporadas'
 heroBackground: 'services/estu.jpg'
 weight: 4
+aliases: ['/datos/resultados_(II)/']
 ---
 
 En un documento anterior vimos la tendencia descendente del ratio de victorias desde el inicio de la era ACB.

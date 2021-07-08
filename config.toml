@@ -19,7 +19,7 @@ enableEmoji = true
 
 [[menu.main]]
     name = "Informes"
-    url = "/datos/"
+    url = "/informes/"
     weight = 2
 
 [[menu.main]]

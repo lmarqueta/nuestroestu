@@ -8,6 +8,7 @@ heroHeading: 'Resultados 2005-2021'
 heroSubHeading: 'Datos clave: resultados deportivos de las últimas temporadas'
 heroBackground: 'services/estu.jpg'
 weight: 2
+aliases: ['/datos/resultados_2005-21/']
 ---
 
 Hay un punto de inflexión en 2005. Se van Varona y Pepu; llegan Fernando Bermúdez a la presidencia y José Asensio a la dirección deportiva.

@@ -8,6 +8,7 @@ heroHeading: 'Victorias y derrotas'
 heroSubHeading: 'Estudio comparativo sobre victorias y derrotas de Estudiantes desde el año 2010'
 heroBackground: 'services/estu.jpg'
 weight: 1
+aliases: ['/datos/victorias_y_derrotas/']
 ---
 
 En el documento adjunto se analiza comparativamente el ratio de victorias y derrotas con respecto al resto de equipos que han participado en la liga ACB desde 2010 hasta hoy.
