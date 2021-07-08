@@ -17,7 +17,7 @@
 
 {{ define "main" }}
 
-{{ partial "highlighted.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+<!-- {{ partial "highlighted.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}} -->
 
 {{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
@@ -54,7 +54,7 @@
         <p>{{ .Content }}</p>
         <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
           <div class="row">
-          {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "datos" ) }}
+          {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "informes" ) }}
           <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
           {{ end }}
         </div>
