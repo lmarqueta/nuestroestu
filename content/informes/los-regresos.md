@@ -1,6 +1,7 @@
 ---
 title: 'Los regresos'
 date: 2021-07-08
+lastmod: 2021-07-12
 icon: 'estu80x80.png'
 featured: true
 draft: false
@@ -30,6 +31,10 @@ Aún tuvo un segundo regreso: en la temporada 2015-16, ya con 35 años, se unió
 **Iker Iturbe**
 
 Jugador del Estu entre las temporadas 2002-03 y 2006-07 jugó un año en el RMCF antes de volver la 2008-09. Al año siguiente fue renovado (aunque nunca se llegó a anunciar oficialmente) aunque, [debido a una extraña enfermedad](https://baskonia.elcorreo.com/noticias/2010-05-21/garrapata-tiene-culpa-20100521.html), no llegó a jugar ni un solo minuto.
+
+**Corey Brewer**
+
+Jugó dos temporadas, 2002-03 y 2003-04, jugando la final de la ACB frente al FCB. Volvió cuatro años después para tapar el hueco de Vonteego Cummings, cortado por su bajo rendimiento.
 
 **Germán Gabriel**
 
@@ -93,9 +98,9 @@ Jugador muy peculiar, pasó dos temporadas distintas por el Estu, ambas incomple
 
 Hemos excluido la anécdota de Rafa Vidaurreta (que solo jugó unos minutos) y a Rodrigo de la Fuente (que se marchó antes de llegar a la ACB y llegó para el descenso de 2012) y hemos comparado los resultados de su última temporada y la de su retorno:
 
-- 14 jugadores han regresado al Estu desde la temporada 2006-07.
-- De esos 14, solo en 3 casos mejoró la clasificación final el año de su retorno: Sergio Sánchez, Nik Caner-Medley y Uros Slokar.
-- La mitad de las veces terminaron en descenso.
+- 15 jugadores han regresado al Estu desde la temporada 2006-07.
+- De esos 15, solo en 3 casos mejoró la clasificación final el año de su retorno: Sergio Sánchez, Nik Caner-Medley y Uros Slokar.
+- Casi la mitad de las veces terminaron en descenso.
 
 {{< image src="/img/el-retorno-i.png" alt="Los jugadores que volvieron" >}}
 
@@ -106,3 +111,5 @@ Si bien no siempre es sencillo comparar estadísticas, estos son los números de
 En la tabla aparecen los promedios de minutos, puntos, rebotes y asistencias para las temporadas comparadas:
 
 {{< image src="/img/el-retorno-ii.png" alt="Estadísticas de los retornos" >}}
+
+{{< note text="Fe de erratas: corregido el artículo porque incomprensiblemente nos olvidamos de Corey Brewer" >}}
