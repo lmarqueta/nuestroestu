@@ -59,6 +59,12 @@ Llegamos a la temporada 2019-20. Uno de los fichajes es este jugador formado en 
 
 Participó en 8 partidos en los que anotó 1 punto y cogió 1 rebote. ¿De media? No, en total.
 
+**Duje Dukan**
+
+Uno de los primeros fichajes de la temporada, este cuatro tirador croata proveniente de la G-League pasó casi totalmente desapercibido, dejando la impresión de que la categoría le quedaba muy grande.
+
+La temporada siguiente jugó en LEB Oro, con unos números más bien discretos. Pero ojo, hay un apartado estadístico donde sí destaca: es el jugador de LEB Oro [con más seguidores en Twitter](https://zonadebasquet.com/2020/10/28/oro-20-21-los-jugadores-mas-seguidos-tw-ig/).
+
 **Toney Douglas**
 
 Otro caso de la famosa "falta de adaptación". Llegó con 1-9 y se marchó tras 11 partidos.Su principal aportación fue dejar en la grada a la perla canterana Dovy Giedraitis.
@@ -96,3 +102,10 @@ Pero seguro que hay un elemento común: José Juan Barea, base con una larga tra
 ¿A quién querrías olvidar tú?
 
 {{< image src="/img/jj-barea.gif" alt="JJ fronteando de acento boricua en una tiraera" >}}
+
+### Datos estadísticos
+
+Los jugadores de la lista en datos:
+
+{{< image src="/img/jugadores-inolvidables-iii.png" alt="Estadísticas de los jugadores (valores medios)" >}}
+

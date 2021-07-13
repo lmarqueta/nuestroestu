@@ -105,5 +105,5 @@ A esto merece la pena ponerle cara:
 
 Los jugadores de la lista en datos:
 
-{{< image src="/img/jugadores-inolvidables-i.png" alt="Estadísticas de los jugadores" >}}
+{{< image src="/img/jugadores-inolvidables-i.png" alt="Estadísticas de los jugadores (valores medios)" >}}
 
