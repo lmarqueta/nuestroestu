@@ -1,7 +1,7 @@
 ---
 title: 'Los regresos'
 date: 2021-07-08
-lastmod: 2021-07-12
+lastmod: 2021-07-14
 icon: 'estu80x80.png'
 featured: true
 draft: false
@@ -19,6 +19,12 @@ Esto no es nuevo; al contrario, parece una práctica común en los últimos año
 **Gonzalo Martínez**
 
 Jugador de la casa, debutó en la temporada 1991-92 y permaneció hasta 2001-02 en que se marchó a Canarias. Tras cuatro años allí retornó en la temporada 2006-07 para jugar dos años hasta su salida a Murcia, donde decidió su retirada tras unos pocos partidos.
+
+**Marlon Garnett**
+
+Gonzalo Martínez y él se marcharon juntos y regresaron juntos. Pero la temporada de su regreso no fue tan exitosa como las de su anterior etapa; por primera vez desdes 1988-89 no se jugaba copa ni playoff.
+
+Tras sus primeros años en el Estu, Garnett se fue a jugar a Italia; después de su segunda etapa jugó unas temporadas en Croacia para después pasar por Irán, Puerto Rico y otros destinos exóticos antes de empezar su carrera como técnico en la NBA.
 
 **Sergio Sánchez**
 
@@ -98,7 +104,7 @@ Jugador muy peculiar, pasó dos temporadas distintas por el Estu, ambas incomple
 
 Hemos excluido la anécdota de Rafa Vidaurreta (que solo jugó unos minutos) y a Rodrigo de la Fuente (que se marchó antes de llegar a la ACB y llegó para el descenso de 2012) y hemos comparado los resultados de su última temporada y la de su retorno:
 
-- 15 jugadores han regresado al Estu desde la temporada 2006-07.
+- 16 jugadores han regresado al Estu desde la temporada 2006-07.
 - De esos 15, solo en 3 casos mejoró la clasificación final el año de su retorno: Sergio Sánchez, Nik Caner-Medley y Uros Slokar.
 - Casi la mitad de las veces terminaron en descenso.
 
@@ -112,4 +118,4 @@ En la tabla aparecen los promedios de minutos, puntos, rebotes y asistencias par
 
 {{< image src="/img/el-retorno-ii.png" alt="Estadísticas de los retornos" >}}
 
-{{< note text="Fe de erratas: corregido el artículo porque incomprensiblemente nos olvidamos de Corey Brewer" >}}
+{{< note text="Fe de erratas: corregido el artículo porque incomprensiblemente nos olvidamos de Corey Brewer y Marlon Garnett" >}}

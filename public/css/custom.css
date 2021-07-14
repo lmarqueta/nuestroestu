@@ -40,7 +40,8 @@ div.breaking {
 }
 
 div.date {
-  font-size: 9pt;
+  font-size: 0.75em;
+  font-style: italic;
   color: gray;
   padding-bottom: 1em;
 }

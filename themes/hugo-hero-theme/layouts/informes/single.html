@@ -8,6 +8,13 @@
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="service service-single">
+        <div class="date">
+          {{ if not (eq .Lastmod .Date) }}
+          Publicado: {{ .Date.Format "2006-01-02" }}, actualizado {{ dateFormat "2006-01-02" .Params.LastMod }}
+          {{ else }}
+          Publicado: {{ .Date.Format "2006-01-02" }}
+          {{ end }}
+        </div>
         <div class="content">{{.Content}}</div>
       </div>
     </div>
