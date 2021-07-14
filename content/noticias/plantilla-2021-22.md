@@ -1,7 +1,7 @@
 ---
 title: 'Plantilla LEB 2021-22'
-date: 2021-06-19
-lastmod: 2021-07-12
+date: 2021-07-14
+lastmod: 2021-07-14
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
@@ -33,7 +33,7 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 
 - Diego Alderete (no sigue, no confirmado oficialmente)
 - Héctor Alderete (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
-- Adams Sola
+- Adams Sola (termina contrato, pendiente de renovación)
 - Rubén Domínguez (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
 
 ## Noticias y fuentes
