@@ -1,7 +1,7 @@
 ---
 title: 'Plantilla LEB 2021-22'
 date: 2021-07-13
-lastmod: 2021-07-14
+lastmod: 2021-07-15
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
@@ -31,12 +31,17 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 
 **Por determinar**
 
-- Diego Alderete (no sigue, no confirmado oficialmente)
 - Héctor Alderete (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
 - Adams Sola (termina contrato, pendiente de renovación)
 - Rubén Domínguez (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
 
 ## Noticias y fuentes
+
+### Diego Alderete y Alex Tamayo desvinculados
+
+*15 de julio de 2021*
+
+Dos de los *cracks00* integrantes de la generación del 2000, una de las que más brillantes y que más alegrías ha dado en cantera, [desvinculados de Estudiantes](https://www.movistarestudiantes.com/la-cantera/diego-alderete-y-alex-tamayo-gracias-por-todo/).
 
 ### Iñaki Martín y Alberto Lorenzo ayudantes de Jota
 
