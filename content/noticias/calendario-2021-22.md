@@ -62,6 +62,6 @@ Salvo error, aquí están los partidos del Estu:
 
 El Campeonato tendrá una fase regular de 34 jornadas donde los 18 equipos se enfrentarán dos veces entre sí (ida y vuelta).
 
-Una vez acabada la fase regular, el primer clasificado ascenderá directamente a ACB, los tres últimos clasificados descenderán a LEB Plata, y los clasificados entre los puestos 2 a 9 competirán por la segunda plaza de ascenso a ACB. Estos equipos deberán enfrentarse en una 1ª Ronda eliminatoria al mejor de cinco partidos (2ºvs9º, 3ºvs8º,4ºvs7º,5ºvs6º) teniendo el factor cancha a favor el mejor clasificado en la fase regular¹. Los 4 equipos que se clasifiquen en esta 1ª Ronda jugarán una Final Four, y el campeón ascenderá a ACB.
+Una vez acabada la fase regular, el primer clasificado ascenderá directamente a ACB, los tres últimos clasificados descenderán a LEB Plata, y los clasificados entre los puestos 2 a 9 competirán por la segunda plaza de ascenso a ACB. Estos equipos deberán enfrentarse en una primera ronda eliminatoria al mejor de cinco partidos (2ºvs9º, 3ºvs8º, 4ºvs7º, 5ºvs6º) teniendo el factor cancha a favor el mejor clasificado en la fase regular¹. Los 4 equipos que se clasifiquen en esta primera Ronda jugarán una *Final Four* cuyo campeón ascenderá a ACB.
 
-¹ El equipo campeón de la Copa Princesa de Asturias, que se celebrará en Febrero, tendrá el factor cancha a favor siempre, aunque su posición en la tabla sea desfavorable, si se diera el caso.
+¹ El equipo campeón de la Copa Princesa de Asturias, que se celebrará en Febrero, tendrá el factor cancha a favor siempre, aunque su posición en la tabla fuera desfavorable, si se diera el caso.
