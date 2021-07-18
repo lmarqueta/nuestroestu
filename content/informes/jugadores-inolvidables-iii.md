@@ -1,6 +1,6 @@
 ---
 title: 'Jugadores inolvidables... (y III)'
-date: 2021-07-19
+date: 2021-07-18
 icon: 'estu80x80.png'
 featured: true
 draft: false
