@@ -21,7 +21,7 @@ Por si no le ponéis cara, os dejamos una foto:
 
 **Ali Traore**
 
-Tras el desastre del descenso (otra vez no culminado), había que ir a lo seguro y traer a un jugón.
+Tras el desastre del descenso (otra vez no consumado), había que ir a lo seguro y traer a un jugón.
 
 Ali Traore tenía nombre de jugón, cara de jugón, historial de jugón y se reía como un jugón. Pero no era un jugón. Tras 16 partidos no llegó a 6 puntos 3 rebotes. Fue cortado.
 
