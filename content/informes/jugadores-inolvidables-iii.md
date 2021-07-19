@@ -47,7 +47,7 @@ Jugó 15 partidos, promediando 3 puntos y 1 rebote en 7 minutos.
 
 **Junior Etou**
 
-Si te decimos Luc Tselan Tsiene Etou es posible que no sepas quién es. "Junior" Etou quizá tampoco, pero es otro de los fichajes del fenesí 2018-91. Congoleño de familia ilustre (primo de Serge Ibaka), llegó de la liga turca. No se supo explicar ni de qué jugaba, despachándolo con que venía ["a sumar de todo"](https://www.movistarestudiantes.com/masculino/junior-etou-refuerzo-para-movistar-estudiantes/).
+Si te decimos Luc Tselan Tsiene Etou es posible que no sepas quién es. "Junior" Etou quizá tampoco, pero es otro de los fichajes del frenesí 2018-91. Congoleño de familia ilustre (primo de Serge Ibaka), llegó de la liga turca. No se supo explicar ni de qué jugaba, despachándolo con que venía ["a sumar de todo"](https://www.movistarestudiantes.com/masculino/junior-etou-refuerzo-para-movistar-estudiantes/).
 
 Lógicamente no sumó casi de nada; 9 partidos, 2 puntos, 3 rebotes en 10 minutos.
 
