@@ -99,7 +99,7 @@ Además de esta larga lista, hay otra con los que quisiéramos olvidar. La lista
 
 Pero seguro que hay un elemento común: José Juan Barea, base con una larga trayectoria NBA que quiso venir a la ACB A lucirse y, cuando vio que no podía, se comportó como un mandulete, llegando a huir (literalmente) antes del último partido. Como dicen en su tierra, quiso *cagar más arriba del culo* y *juyó a janguear con sus panas*.
 
-¿A quién querrías olvidar tú?
+¿A quién querrías olvidar tú? Cuéntanoslo en [Twitter](https://twitter.com/NuestroEstu).
 
 {{< image src="/img/jj-barea.gif" alt="JJ fronteando de acento boricua en una tiraera" >}}
 
