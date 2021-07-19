@@ -33,7 +33,7 @@ Otra de esas *apuestas de futuro*. 11 partidos, 68 minutos, 9 puntos, 13 rebotes
 
 **Nikola Jankovic**
 
-Jankovic duró algo más, 13 partidos, antes de ser traspasado al Partizan. Si algo se recuerda de este jugador será su depurada técnica en el lanzamiento de tiros libres; se marchó dejando un 41% de efectividad.
+Jankovic duró algo más, 13 partidos, antes de ser traspasado al Partizan. Si algo se recuerda de este jugador será su depurada técnica en el lanzamiento de tiros libres; se marchó dejando un 41% de efectividad, añadido a su 0% en triples (0/7).
 
 {{< image src="/img/jankovic-airball.gif" alt="Lo creáis o no, el 41% entraba" >}}
 
