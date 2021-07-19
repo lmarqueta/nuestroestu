@@ -83,7 +83,7 @@ Ante la falta de anotación y rebote se trajo a Pumprla que promedió 3 puntos y
 
 {{< image src="/img/pavel-pumprla.jpg" alt="Con Pumprla la cosa se torció desde el primer momento" >}}
 
-(continuará...)
+([Continuará...](https://nuestroestu.es/informes/jugadores-inolvidables-iii/))
 
 ### Datos estadísticos
 

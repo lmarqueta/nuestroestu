@@ -99,7 +99,7 @@ A esto merece la pena ponerle cara:
 
 {{< image src="/img/antoine-wright.png" alt="Antoine después de ganar al RMCF" >}}
 
-(Continuará...)
+([Continuará...](https://nuestroestu.es/informes/jugadores-inolvidables-ii/))
 
 ### Datos estadísticos
 
