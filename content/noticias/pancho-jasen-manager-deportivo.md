@@ -4,8 +4,8 @@ date: 2021-07-20
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Pancho Jasen Manager Deportivo'
-heroSubHeading: 'El argentino regresa al Estudiantes en los despachos'
+heroHeading: 'Pancho Jasen regresa al Estu como Manager Deportivo'
+heroSubHeading: 'También vuelve Juan Antonio Cabrerizo'
 heroBackground: 'services/estu.jpg'
 ---
 
@@ -15,4 +15,6 @@ El Estudiantes ha hecho hoy oficial la incorporación de Pancho Jasen como "Mana
 
 Según la noticia, "trabajará en coordinación con las Secretarías Técnicas" (la masculina a cargo de [Íñigo de la Villa](https://nuestroestu.es/noticias/i-de-la-villa-secretario-tecnico/) y la femenina de Alberto Ortego).
 
-¡Bienvenido y mucha suerte!
+Además, también regresa Juan Antonio Cabrerizo para hacerse cargo de los equipos masculinos de desarrollo.
+
+¡Bienvenidos y mucha suerte!
