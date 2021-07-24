@@ -1,5 +1,10 @@
 [
     {
+        "name": "Email",
+        "link": "mailto:info@nuestroestu.es",
+        "image": "social/email.svg"
+    },
+    {
         "name": "Twitter",
         "link": "https://twitter.com/nuestroestu",
         "image": "social/twitter.svg"
