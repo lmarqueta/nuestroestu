@@ -35,6 +35,18 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Adams Sola (termina contrato, pendiente de renovación)
 - Rubén Domínguez (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
 
+**Bajas**
+
+- Víctor Arteaga
+- Aleksa Avramovic
+- Alec Brown
+- Aleksandar Cvetkovic
+- Ángel Delgado
+- Nemanja Djrusic
+- Martins Laksa
+- John Roberson
+- Zeljko Sakic
+
 ## Noticias y fuentes
 
 ### Dovy Giedraitis cedido
