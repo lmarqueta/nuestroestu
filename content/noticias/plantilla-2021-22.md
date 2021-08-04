@@ -1,7 +1,7 @@
 ---
 title: 'Plantilla LEB 2021-22'
 date: 2021-07-13
-lastmod: 2021-07-15
+lastmod: 2021-08-04
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
@@ -18,9 +18,9 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 
 **Plantilla**
 
-- Nacho Arroyo ([contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/))
-- Dovydas Giedraitis ([con contrato hasta 2023](https://www.movistarestudiantes.com/masculino/acb-dovydas-giedraitis-al-primer-equipo-de-movistar-estudiantes/))
-- Edwin Jackson ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/))
+- Nacho Arroyo ([contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)). Pendiente de resolver su nacionalidad.
+- Edwin Jackson ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)). Pendiente de la evolución de su lesión para confirmar si formará parte de la plantilla.
+- Javier Beirán (la [nota oficial](https://www.movistarestudiantes.com/leb-oro/javi-beiran-acepta-el-reto-de-movistar-estudiantes-en-leb-oro/) no da muchos detalles pero es un 1+1+1)
 
 **Cuerpo técnico**
 
@@ -36,6 +36,19 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Rubén Domínguez (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
 
 ## Noticias y fuentes
+
+### Dovy Giedraitis cedido
+
+*3 de agosto de 2021*
+
+Dovydas Giedraitis [amplía contrato hasta 2024](https://www.movistarestudiantes.com/leb-oro/giedraitis-ampliacion-de-contrato-y-cesion/) y se va cedido al BC Lietkabelis lituano que jugará Eurocup.
+)
+
+### Javier Beirán fichado
+
+*3 de agosto de 2021*
+
+La [nota oficial](https://www.movistarestudiantes.com/leb-oro/javi-beiran-acepta-el-reto-de-movistar-estudiantes-en-leb-oro/) no da muchos detalles pero es un 1+2.
 
 ### Diego Alderete y Alex Tamayo desvinculados
 
