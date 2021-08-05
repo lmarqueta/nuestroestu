@@ -1,5 +1,5 @@
 ---
-title: "Fichaje Javi Beiran"
+title: "Fichaje: Javi Beiran"
 date: 2021-08-03
 icon: "services/service-icon-4.png"
 featured: true
