@@ -23,6 +23,7 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Javier Beirán (la [nota oficial](https://www.movistarestudiantes.com/leb-oro/javi-beiran-acepta-el-reto-de-movistar-estudiantes-en-leb-oro/) no da muchos detalles pero es un 1+1+1)
 - Johnny Dee ([noticia del fichaje en la web oficial](https://www.movistarestudiantes.com/leb-oro/johnny-dee-una-metralleta-para-el-perimetro/))
 - Nacho Martín
+- Lucas Faggiano
 
 **Cuerpo técnico**
 
@@ -51,7 +52,15 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 
 ## Noticias y fuentes
 
+### Lucas Faggiano fichado
+
+*6 de agosto de 2021*
+
+Noticia del fichaje [en la web oficial](https://www.movistarestudiantes.com/leb-oro/lucas-faggiano-nuevo-base-para-movistar-estudiantes/)
+
 ### Nacho Martín fichado
+
+*5 de agosto de 2021*
 
 Noticia del fichaje [en la web oficial](https://www.movistarestudiantes.com/leb-oro/nacho-martin-experiencia-leb-oro-y-conocimiento-del-club/)
 
