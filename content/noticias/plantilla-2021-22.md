@@ -20,10 +20,10 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 
 - Nacho Arroyo ([contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)). Pendiente de resolver su nacionalidad.
 - Edwin Jackson ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)). Pendiente de la evolución de su lesión para confirmar si formará parte de la plantilla.
-- Javier Beirán (la [nota oficial](https://www.movistarestudiantes.com/leb-oro/javi-beiran-acepta-el-reto-de-movistar-estudiantes-en-leb-oro/) no da muchos detalles pero es un 1+1+1)
-- Johnny Dee ([noticia del fichaje en la web oficial](https://www.movistarestudiantes.com/leb-oro/johnny-dee-una-metralleta-para-el-perimetro/))
-- Nacho Martín
-- Lucas Faggiano
+- Javier Beirán (el club no ha informado de la duración del contrato)
+- Johnny Dee (el club no ha informado de la duración del contrato)
+- Nacho Martín (el club no ha informado de la duración del contrato)
+- Lucas Faggiano (el club no ha informado de la duración del contrato)
 
 **Cuerpo técnico**
 
