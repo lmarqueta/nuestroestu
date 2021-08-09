@@ -24,6 +24,7 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Johnny Dee (el club no ha informado de la duración del contrato)
 - Nacho Martín (el club no ha informado de la duración del contrato)
 - Lucas Faggiano (el club no ha informado de la duración del contrato)
+- Felipe Dos Anjos (el club no ha informado de la duración del contrato)
 
 **Cuerpo técnico**
 
@@ -51,6 +52,12 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Zeljko Sakic
 
 ## Noticias y fuentes
+
+### Felipe Dos Anjos fichado
+
+*9 de agosto de 2021*
+
+Noticia del fichaje [en la web oficial](https://www.movistarestudiantes.com/leb-oro/felipe-dos-anjos-centimetros-para-movistar-estudiantes/)
 
 ### Lucas Faggiano fichado
 
