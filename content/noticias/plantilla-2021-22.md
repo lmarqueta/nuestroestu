@@ -25,6 +25,7 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Nacho Martín (el club no ha informado de la duración del contrato)
 - Lucas Faggiano (el club no ha informado de la duración del contrato)
 - Felipe Dos Anjos (el club no ha informado de la duración del contrato)
+- Adams Sola (el club no ha informado de la duración del contrato)
 
 **Cuerpo técnico**
 
@@ -52,6 +53,13 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Zeljko Sakic
 
 ## Noticias y fuentes
+
+### Adams Sola renovado
+
+*10 de agosto de 2021*
+
+Noticia de la renovación [en la web oficial](https://www.movistarestudiantes.com/leb-oro/altas-bajas/adams-sola-joven-veterano-para-el-reto-de-la-leb-oro/)
+
 
 ### Felipe Dos Anjos fichado
 

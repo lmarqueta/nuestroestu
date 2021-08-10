@@ -11,4 +11,8 @@ heroBackground: 'services/service1.jpg'
 
 El Estudiantes ha anunciado el fichaje del pivot brasileño de 2.18 que procede del Bilbao Basket.
 
+El jugador ya tiene experiencia previa en LEB Oro pues ha pasado por Oviedo (temporada 2016-17), Melilla (2018-19) y Palencia (2019-20).
+
+El año pasado en Bilbao promedió 9 minutos, 2 puntos, 3 rebotes.
+
 Anuncio oficial: https://www.movistarestudiantes.com/leb-oro/felipe-dos-anjos-centimetros-para-movistar-estudiantes/ 
