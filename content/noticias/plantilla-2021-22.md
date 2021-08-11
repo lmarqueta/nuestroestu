@@ -37,7 +37,6 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 **Por determinar**
 
 - Héctor Alderete (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
-- Adams Sola (termina contrato, pendiente de renovación)
 - Rubén Domínguez (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
 
 **Bajas**
