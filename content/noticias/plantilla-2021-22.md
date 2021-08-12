@@ -1,7 +1,7 @@
 ---
 title: 'Plantilla LEB 2021-22'
 date: 2021-07-13
-lastmod: 2021-08-06
+lastmod: 2021-08-12
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
@@ -18,14 +18,14 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 
 **Plantilla**
 
-- Nacho Arroyo ([contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)). Pendiente de resolver su nacionalidad.
-- Edwin Jackson ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)). Pendiente de la evolución de su lesión para confirmar si formará parte de la plantilla.
 - Javier Beirán (el club no ha informado de la duración del contrato)
 - Johnny Dee (el club no ha informado de la duración del contrato)
 - Nacho Martín (el club no ha informado de la duración del contrato)
 - Lucas Faggiano (el club no ha informado de la duración del contrato)
 - Felipe Dos Anjos (el club no ha informado de la duración del contrato)
 - Adams Sola (el club no ha informado de la duración del contrato)
+- Héctor Alderete (el club no ha informado de la duración del contrato)
+- Rubén Domínguez (el club no ha informado de la duración del contrato)
 
 **Cuerpo técnico**
 
@@ -36,8 +36,8 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 
 **Por determinar**
 
-- Héctor Alderete (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
-- Rubén Domínguez (situación contractual no conocida; directiva y cuerpo técnico han afirmado contar con él para el proyecto actual)
+- Nacho Arroyo ([con contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)). Pendiente de resolver su nacionalidad.
+- Edwin Jackson ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)). Pendiente de la evolución de su lesión para confirmar si formará parte de la plantilla.
 
 **Bajas**
 
@@ -52,6 +52,18 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Zeljko Sakic
 
 ## Noticias y fuentes
+
+### Rubén Domínguez al primer equipo
+
+*12 de agosto de 2021*
+
+Noticia en la web oficial: https://www.movistarestudiantes.com/leb-oro/altas-bajas/paso-adelante-de-ruben-dominguez-al-primer-equipo/
+
+### Héctor Alderete al primer equipo
+
+*11 de agosto de 2021*
+
+Noticia en la web oficial: https://www.movistarestudiantes.com/leb-oro/hector-alderete-sube-al-primer-equipo-de-movistar-estudiantes/
 
 ### Adams Sola renovado
 
