@@ -1,5 +1,5 @@
 ---
-title: "Hector Alderete Al Primer Equipo"
+title: "Hector Alderete al Primer Equipo"
 date: 2021-08-11
 icon: "services/service-icon-4.png"
 featured: true

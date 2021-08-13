@@ -1,5 +1,5 @@
 ---
-title: "Ruben Dominguez Al Primer Equipo"
+title: "Ruben Dominguez al Primer Equipo"
 date: 2021-08-12T18:42:04+02:00
 icon: "services/service-icon-4.png"
 featured: true

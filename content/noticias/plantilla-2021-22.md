@@ -1,7 +1,7 @@
 ---
 title: 'Plantilla LEB 2021-22'
 date: 2021-07-13
-lastmod: 2021-08-12
+lastmod: 2021-08-13
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
@@ -26,6 +26,7 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Adams Sola (el club no ha informado de la duración del contrato)
 - Héctor Alderete (el club no ha informado de la duración del contrato)
 - Rubén Domínguez (el club no ha informado de la duración del contrato)
+- Nacho Arroyo ([con contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)).
 
 **Cuerpo técnico**
 
@@ -36,7 +37,6 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 
 **Por determinar**
 
-- Nacho Arroyo ([con contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)). Pendiente de resolver su nacionalidad.
 - Edwin Jackson ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)). Pendiente de la evolución de su lesión para confirmar si formará parte de la plantilla.
 
 **Bajas**
@@ -52,6 +52,12 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Zeljko Sakic
 
 ## Noticias y fuentes
+
+### Nacho Arroyo al primer equipo
+
+*13 de agosto de 2021*
+
+Noticia en la web oficial: https://www.movistarestudiantes.com/leb-oro/nacho-arroyo-varela-tambien-se-suma-al-reto-de-la-leb-oro/
 
 ### Rubén Domínguez al primer equipo
 
