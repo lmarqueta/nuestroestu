@@ -27,6 +27,7 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Héctor Alderete (el club no ha informado de la duración del contrato)
 - Rubén Domínguez (el club no ha informado de la duración del contrato)
 - Nacho Arroyo ([con contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)).
+- Nemanja Djurisic
 
 **Cuerpo técnico**
 
@@ -46,12 +47,17 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Alec Brown
 - Aleksandar Cvetkovic
 - Ángel Delgado
-- Nemanja Djrusic
 - Martins Laksa
 - John Roberson
 - Zeljko Sakic
 
 ## Noticias y fuentes
+
+### Nemanja Djurisic renovado
+
+*16 de agosto de 2021*
+
+Noticia en la web oficial: https://www.movistarestudiantes.com/leb-oro/djurisic-trabajo-y-compromiso-para-el-reto-de-la-leb-oro/ (nota: el 5 de julio se anunció la baja de este mismo jugador)
 
 ### Nacho Arroyo al primer equipo
 
