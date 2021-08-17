@@ -13,4 +13,6 @@ El Estudiantes ha anunciado el fichaje del pivot francés Darel Poirier. Provien
 
 Noticia oficial del fichaje [aquí](https://www.movistarestudiantes.com/leb-oro/darel-poirier-potencia-interior-para-movistar-estudiantes/)
 
-En este caso el club tampoco ha anunciado la duración del contrato.
+En este caso el club tampoco ha anunciado la duración del contrato aunque viendo la [cuenta de Instagram](https://www.instagram.com/d4re16/) del jugador se puede interpretar que son tres años:
+
+![Darel Poirier](/img/poirier.png)
