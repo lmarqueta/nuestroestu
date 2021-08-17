@@ -1,7 +1,7 @@
 ---
 title: 'Plantilla LEB 2021-22'
 date: 2021-07-13
-lastmod: 2021-08-13
+lastmod: 2021-08-17
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
@@ -28,6 +28,7 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Rubén Domínguez (el club no ha informado de la duración del contrato)
 - Nacho Arroyo ([con contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)).
 - Nemanja Djurisic
+- Darel Poirier
 
 **Cuerpo técnico**
 
@@ -52,6 +53,12 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Zeljko Sakic
 
 ## Noticias y fuentes
+
+### Darel Poirier fichado
+
+*17 de agosto de 2021*
+
+Noticia en la web oficial: https://www.movistarestudiantes.com/leb-oro/darel-poirier-potencia-interior-para-movistar-estudiantes
 
 ### Nemanja Djurisic renovado
 
