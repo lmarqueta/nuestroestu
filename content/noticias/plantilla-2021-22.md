@@ -1,7 +1,7 @@
 ---
 title: 'Plantilla LEB 2021-22'
 date: 2021-07-13
-lastmod: 2021-08-17
+lastmod: 2021-08-25
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
@@ -29,6 +29,7 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Nacho Arroyo ([con contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)).
 - Nemanja Djurisic
 - Darel Poirier
+- Edwin Jackson. Anteriormente ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)) aparece sin embargo como "renovado". No hay detalles publicados oficialmente acerca de cambios en la duración de su contrato.
 
 **Cuerpo técnico**
 
@@ -36,10 +37,6 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Iñaki Martín (ayudante)
 - Alberto Lorenzo (ayudante)
 - Íñigo de la Villa (secretario técnico)
-
-**Por determinar**
-
-- Edwin Jackson ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)). Pendiente de la evolución de su lesión para confirmar si formará parte de la plantilla.
 
 **Bajas**
 
@@ -53,6 +50,12 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Zeljko Sakic
 
 ## Noticias y fuentes
+
+### Edwin Jackson renovado
+
+*24 de agosto de 2021*
+
+Noticia en la web oficial: https://www.movistarestudiantes.com/leb-oro/edwin-jackson-cierra-la-plantilla-de-leb-oro/
 
 ### Darel Poirier fichado
 
