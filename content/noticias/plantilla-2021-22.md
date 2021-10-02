@@ -30,6 +30,7 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Nemanja Djurisic
 - Darel Poirier
 - Edwin Jackson. Anteriormente ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)) aparece sin embargo como "renovado". No hay detalles publicados oficialmente acerca de cambios en la duración de su contrato.
+- Nicolas de Jong. [Se incorpora de forma temporal](/noticias/se-incorpora-de-jong/) para cubrir las bajas de dos Anjos y Djurisic.
 
 **Cuerpo técnico**
 
@@ -50,6 +51,12 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Zeljko Sakic
 
 ## Noticias y fuentes
+
+### Nicolas de Jong se incorpora temporalmente
+
+*1 de octubre de 2021*
+
+Noticia en la web oficial: https://www.movistarestudiantes.com/leb-oro/nicolas-de-jong-se-incorpora-a-los-entrenamientos/
 
 ### Edwin Jackson renovado
 
