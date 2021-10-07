@@ -1,7 +1,6 @@
 ---
 title: "Edwin Jackson renovado"
 date: 2021-08-24T10:50:38+02:00
-date: 2021-08-25T10:50:38+02:00
 icon: "services/service-icon-4.png"
 featured: true
 draft: false
