@@ -10,7 +10,7 @@ heroBackground: 'services/service1.jpg'
 ---
 
 
-# Modalidades abonos Estudiantes 2021/22
+Modalidades abonos Estudiantes 2021/22
 
 Para ir aclarando conceptos, empezaremos distinguiendo el Club Baloncesto Estudiantes SAD y el Club Deportivo Estudiantes.
 
