@@ -1,6 +1,7 @@
 ---
 title: "Comunicado"
 date: 2022-01-10
+lastmod: 2022-01-11
 icon: "services/service-icon-4.png"
 featured: true
 draft: false
@@ -9,7 +10,7 @@ heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
 
-En respuesta a la falta de acciones de la directiva tras la junta general de accionistas de diciembre, Nuestro Estu emite este comunicado:
+Comunicado de Nuestro Estu sobre la situación de Estudiantes.
 
 Tras el estrepitoso fracaso que ha supuesto el descenso a LEB, y pasado un tiempo más que prudencial, se ha constatado que no ha existido autocrítica por parte del consejo de administración, no se han asumido responsabilidades y no se han producido cambios relevantes en la entidad.
 
@@ -19,7 +20,7 @@ Ante nuestro estupor, en la Junta del pasado 20 de diciembre no se informó de r
 
 Las propuestas de nuestra plataforma han sido desoídas e ignoradas por parte de los órganos directivos de Estudiantes, demostrando el escaso interés de los directivos de la entidad por los análisis, opiniones y propuestas de la afición.
 
-Reiteramos que es absolutamente indispensable acometer, de una vez por todas y con la mayor urgencia posible, los cambios indispensables para conseguir una buena gestión de la entidad: cambios en la estructura, en los modelos de gestión, en las competencias de los órganos directivos y en las personas que ocupan puestos de responsabilidad en dichos órganos.
+Reiteramos que es absolutamente indispensable acometer, de una vez por todas y con la mayor urgencia posible, los cambios necesarios para conseguir una buena gestión de la entidad: cambios en la estructura, en los modelos de gestión, en las competencias de los órganos directivos y en las personas que ocupan puestos de responsabilidad en dichos órganos.
 
 
 
