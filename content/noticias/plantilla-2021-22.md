@@ -1,7 +1,7 @@
 ---
 title: 'Plantilla LEB 2021-22'
 date: 2021-07-13
-lastmod: 2021-12-27
+lastmod: 2022-03-20
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
@@ -24,14 +24,15 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - Lucas Faggiano (el club no ha informado de la duración del contrato)
 - Felipe Dos Anjos (el club no ha informado de la duración del contrato)
 - Adams Sola (el club no ha informado de la duración del contrato)
-- Héctor Alderete (el club no ha informado de la duración del contrato)
+- ~~Héctor Alderete (el club no ha informado de la duración del contrato)~~ Cedido.
 - Rubén Domínguez (el club no ha informado de la duración del contrato)
 - Nacho Arroyo ([con contrato hasta 2023](https://www.movistarestudiantes.com/masculino/nacho-arroyo-renueva-con-movistar-estudiantes-hasta-2023/)).
 - Nemanja Djurisic
-- Darel Poirier
-- Edwin Jackson. Anteriormente ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)) aparece sin embargo como "renovado". No hay detalles publicados oficialmente acerca de cambios en la duración de su contrato.
+- ~~Darel Poirier~~
+- ~~Edwin Jackson. Anteriormente ([con contrato hasta 2022](https://www.movistarestudiantes.com/masculino/edwin-jackson-im-back/)) aparece sin embargo como "renovado". No hay detalles publicados oficialmente acerca de cambios en la duración de su contrato.~~
 - ~~Nicolas de Jong. [Se incorpora de forma temporal](/noticias/se-incorpora-de-jong/) para cubrir las bajas de dos Anjos y Djurisic.~~
 - Kevin Larsen [fichado](https://www.movistarestudiantes.com/leb-oro/kevin-larsen-nuevo-pivot-para-movistar-estudiantes-en-leb-oro/)
+- Álex Urtasun [fichado](https://www.movistarestudiantes.com/leb-oro/altas-bajas/movistar-estudiantes-se-refuerza-con-alex-urtasun/)
 
 **Cuerpo técnico**
 
@@ -51,6 +52,8 @@ En general, nos limitaremos a las noticias oficiales y, cuando no sea así, lo h
 - John Roberson
 - Zeljko Sakic
 - Nicolas De Jong [finaliza contrato](https://www.movistarestudiantes.com/leb-oro/altas-bajas/finaliza-el-contrato-de-de-jong-gracias-y-suerte/)
+- Edwin Jackson es baja hasta fin de temporada
+- Héctor Alderete se va cedido al Hestia Menorca de LEB Plata
 
 **Cesiones**
 

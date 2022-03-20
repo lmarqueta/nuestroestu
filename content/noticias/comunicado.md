@@ -1,32 +1,25 @@
 ---
-title: "Comunicado"
-date: 2022-01-10
-lastmod: 2022-01-11
+title: "Comunicado de Nuestro Estu"
+date: 2022-03-20T15:38:08+01:00
 icon: "services/service-icon-4.png"
 featured: true
 draft: false
-heroHeading: 'Comunicado'
+heroHeading: 'Comunicado de Nuestro Estu'
 heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
 
-Comunicado de Nuestro Estu sobre la situación de Estudiantes.
+En la rueda de prensa posterior al descenso, así como en la Junta General de Accionistas del mes de junio, se prometieron cambios para corregir los muchos errores cometidos.
 
-Tras el estrepitoso fracaso que ha supuesto el descenso a LEB, y pasado un tiempo más que prudencial, se ha constatado que no ha existido autocrítica por parte del consejo de administración, no se han asumido responsabilidades y no se han producido cambios relevantes en la entidad.
+No solo no se han producido esos cambios sino que se ha reincidido en los errores de siempre: Han contratado (renovado) a un entrenador sin experiencia en la categoría en la que íbamos a competir, además de seguir contando con un director deportivo que no solo no tiene experiencia, sino que tampoco conoce el mercado de la LEB Oro. Por si fuera poco, han incluido en la estructura del club a Pancho Jasen, una contratación que ha supuesto un fuerte desembolso para un puesto cuyas funciones ya estaban asumidas por el director deportivo.
 
-Fernando Galindo, presidente de Estudiantes, se comprometió en la Junta General de Accionistas del 30 de junio pasado a realizar una completa reestructuración de la entidad con el objetivo de solucionar los problemas que han llevado al descenso y cuyos detalles se darían a conocer en la Junta de Accionistas de diciembre.
+En los últimos años se ha incidido en que la deuda histórica suponía una losa demasiado pesada que impedía tener un presupuesto suficiente para competir en ACB. Con esto justifican los descensos y pretenden quedar exonerados de su responsabilidad. Se ha llegado a afirmar que los descensos no son un fracaso. Ninguna de estas dos afirmaciones es cierta: los descensos sí son un fracaso y todos los pagos de deuda realizados los últimos años en ACB se han hecho gracias a ingresos extraordinarios ajenos a la gestión deportiva. Por otra parte, esta temporada en LEB Oro somos el equipo con mayor presupuesto de la categoría con una diferencia muy importante. Más del doble que el segundo presupuesto. En ese contexto, no solo no vamos primeros, sino que hemos visto cómo otros equipos han logrado formar plantillas equilibradas y competitivas con mucho menos dinero. El ascenso (obligado, que no meritorio) no es a día de hoy una certeza y no conseguirlo supondría un fracaso histórico. Fracaso aún mayor que el del descenso.
 
-Ante nuestro estupor, en la Junta del pasado 20 de diciembre no se informó de reestructuración alguna; apreciamos que todo sigue igual y que no se han producido los cambios indispensables para evitar la repetición de los múltiples y graves errores cometidos en el pasado que nos han llevado a la actual situación.
+Precisamente el descenso que sufrimos a final de la pasada campaña supuso una oportunidad para cambiar las cosas. Cambios que no se han producido. Los mismos de siempre siguen haciendo lo mismo de siempre. Asimismo, los aficionados no han tenido las respuestas esperadas y están hartos de los pésimos resultados consecuencia de la gestión del club en los últimos tiempos.
 
-Las propuestas de nuestra plataforma han sido desoídas e ignoradas por parte de los órganos directivos de Estudiantes, demostrando el escaso interés de los directivos de la entidad por los análisis, opiniones y propuestas de la afición.
+Por todo ello, pedimos la dimisión de Fernando Galindo y de todo el consejo de administración. Basta ya de promesas incumplidas. Es hora de dejarlo y permitir que se realicen los cambios que el club necesita desde hace años.
 
-Reiteramos que es absolutamente indispensable acometer, de una vez por todas y con la mayor urgencia posible, los cambios necesarios para conseguir una buena gestión de la entidad: cambios en la estructura, en los modelos de gestión, en las competencias de los órganos directivos y en las personas que ocupan puestos de responsabilidad en dichos órganos.
-
-
-
-
-
-
+¡¡GALINDO DIMISIÓN!!
 
 
 
