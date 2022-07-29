@@ -4,12 +4,12 @@ date: 2022-07-29T17:53:28+02:00
 icon: "services/service-icon-4.png"
 featured: true
 draft: false
-heroHeading: 'Junta Extraordinaria de Accionistas'
-heroSubHeading: 'Resumen de la junta del 28 de Julio de 2022'
+heroHeading: 'Junta de Accionistas'
+heroSubHeading: 'Resumen de la junta extraordinaria del 28 de Julio de 2022'
 heroBackground: 'services/service1.jpg'
 ---
 
-El 28 de julio de 2022 ha tenido lugar la Junta General Extraordinaria de Accionistas de la SAD Estudiantes que ha dado como resultado la dimisión del presidente Fernando Galindo y de todo el Consejo de Administración en pleno.
+El 28 de julio de 2022 ha tenido lugar la Junta General Extraordinaria de Accionistas de la SAD Estudiantes que ha resultado en la dimisión del presidente Fernando Galindo y de todo su Consejo de Administración.
 
 El nuevo presidente de la SAD Estudiantes es Ignacio Triana, uno de los tres principales accionistas y parte del anterior Consejo de Administración. El nuevo consejo, nombrado a propuesta de Triana, será más reducido y se compondrá de la siguientes personas además de Triana:
 
