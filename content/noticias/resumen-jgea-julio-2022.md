@@ -1,6 +1,7 @@
 ---
 title: "Resumen Junta de Accionistas (28 de Julio de 2022)"
 date: 2022-07-29T17:53:28+02:00
+lastmod: 2022-07-30
 icon: "services/service-icon-4.png"
 featured: true
 draft: false
@@ -47,13 +48,15 @@ Se trabaja en previsión de que ninguno de los potenciales inversores termine ac
 
 ## Preguntas
 
+En el turno de preguntas intervinieron varios miembros de la plataforma Nuestro Estu.
+
 Sobre la falta de transparencia en la duración de los fichajes (finalizada la temporada no se sabía qué jugadores tenían cuantrato y cuáles no) Triana insistió en que no se podía decir en público porque podría perjudicar los intereses del club.
 
 En cuanto a las dificultades que se han puesto a potenciales inversores (en relación con [la entrevista a Carlos Avenza en Marca](https://www.marca.com/baloncesto/basketfeb/2022/07/27/62e11b6eca4741975f8b456d.html)) Triana aseguró que "si mañana cualquiera deposita un talón conformado en una notaría de 5 millones de euros, un minuto después yo convoco al consejo de administración y le damos plenos poderes a ese señor".
 
 Se pregunta por Sport Media & Sponsoring (SMS) y se explica que es la sociedad que se encarga del todos los patrocinios salvo el de Movistar y su accionariado lo componen: 49% Club Deportivo, 49% Fundación y 2% SAD.
 
-Triana no pudo dar una explicación de cómo es posible que, mes y medio después del descenso, no haya habido explicaciones públicas. Ante la insistencia de un accionista (Alberto Gómez, exconsejero de la SAD) sobre cómo es posible que se mantenga en la directiva a José Asensio, director general responsable de los resultados de los últimos años, Triana vuelve a explicar que se centrará exclusivamente en patrocinios y relaciones institucionales.
+Triana no pudo dar una explicación de cómo es posible que, mes y medio después del descenso, no haya habido explicaciones públicas. Ante la insistencia de un accionista sobre cómo es posible que se mantenga en la directiva a José Asensio, director general responsable de los resultados de los últimos años, Triana vuelve a explicar que se centrará exclusivamente en patrocinios y relaciones institucionales.
 
 Precisamente sobre las relaciones institucionales, se manifestó que en los últimos años ha existido un mal trato por parte tanto de ACB como de FEB. Incluso Galindo mencionó un desagradable incidente con Garbajosa en el palco de la *final four* de Girona. Triana respondió que las relaciones son buenas pero no óptimas y que en adelante José Asensio será el encargado de mejorarlas.
 
