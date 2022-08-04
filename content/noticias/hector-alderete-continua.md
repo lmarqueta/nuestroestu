@@ -11,6 +11,6 @@ heroBackground: 'services/service1.jpg'
 
 El alero Héctor Alderete, formado en la cantera del Estudiantes, regresa de su cesión en Menorca.
 
-Formará parte de la plantilla LEB junto con los ya anunciados Sola, Larsen y Jawara.
+Formará parte de la plantilla LEB junto con los ya anunciados [Sola](https://nuestroestu.es/noticias/sola-confirmado/), [Larsen](https://nuestroestu.es/noticias/continua-kevin-larsen/) y [Jawara](https://nuestroestu.es/noticias/karamo-jawara-fichado/).
 
 Noticia en la web oficial: https://www.movistarestudiantes.com/leb-oro/hector-alderete-seguira-creciendo-en-movistar-estudiantes/
