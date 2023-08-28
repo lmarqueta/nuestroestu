@@ -12,4 +12,3 @@ align: left
 - Instagram: [@nuestroestu](https://instagram.com/nuestroestu)
 - Facebook: [Nuestro-Estu-161460697224814](https://es-es.facebook.com/Nuestro-Estu-161460697224814/)
 
-o escríbenos un correo a [info@nuestroestu.es](mailto:info@nuestroestu.es)
